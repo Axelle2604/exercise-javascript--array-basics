@@ -49,5 +49,5 @@ console.log(
 );
 
 console.log(
-  'Filter va sélectionner tous les éléments retournant true, tandis que find ne retournera que le premier retournant true.'
+  "Filter va sélectionner tous les éléments retournant true (sous forme d'un tableau), tandis que find ne retournera que le premier retournant true (sous forme d'un élément string, number...)."
 );
